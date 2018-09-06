@@ -1,0 +1,17 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[dev-packages]
+
+
+
+[packages]
+
+scipy = "*"
+pyopencl = "*"
+"h5py" = "*"
+pygdal = "==2.1.0.3"
